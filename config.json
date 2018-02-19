@@ -1,0 +1,6 @@
+{
+    "salt_rounds": 10,
+    "jwt": {
+        "secret": "d*<_pVsP2xeusMaMmgNFgH-6z4LywVR,'wZ-4Z2pK%&e6Y7h"
+    }
+}
